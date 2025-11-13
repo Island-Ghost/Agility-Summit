@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Agility is a pioneering financial service designed to revolutionize the security and efficiency of digital transactions. Recognizing the vulnerabilities inherent in conventional Web2 payment systems, Agility leverages the power of the XRP Ledger, Interledger Protocol, Web3 domains, and Midnight's Zero Knowledge Proof system to create a new paradigm for secure, private, and user-friendly transactions.
+Agility is a pioneering financial service designed to revolutionize the security and efficiency of digital transactions. Recognizing the vulnerabilities inherent in conventional Web2 payment systems, Agility leverages the power of the XRP Ledger, Interledger Protocol, AI/ML integration with MCP (Model Context Protocol) and LLMs, and Midnight's Zero Knowledge Proof system to create a new paradigm for secure, private, and user-friendly transactions.
 
 ## History
 
@@ -32,11 +32,12 @@ Through strategic collaborations and technological innovation, Agility is buildi
 - **Privacy**: Transaction anonymity through abstraction
 - **Decentralization**: Reduce dependency on single networks
 
-### Web3 Domains
-- **Decentralized Identity (DID)**: User-controlled digital identities
-- **Censorship Resistance**: No central authority control
-- **Privacy**: Registration without personal information
-- **NFT-Based Ownership**: True domain ownership
+### AI/ML Integration with MCP & LLMs
+- **Intelligent Payment Processing**: AI-powered transaction optimization and fraud detection
+- **Natural Language Interface**: LLM-based conversational payment experiences
+- **Model Context Protocol (MCP)**: Seamless integration of AI capabilities into customer websites
+- **Automated Customer Support**: AI-driven assistance for payment queries and issues
+- **Predictive Analytics**: Machine learning for transaction patterns and risk assessment
 
 ## Key Features
 
@@ -61,10 +62,11 @@ Using Midnight's Zero-Knowledge Proofs, Agility ensures that:
 - **Multi-Party Transactions**: Support for complex payment scenarios
 - **Dispute Resolution**: Built-in mechanisms for conflict resolution
 
-### 5. Web3 Domain Integration
-- **Decentralized Identity**: Use Web3 domains as DIDs
-- **User Sovereignty**: Complete control over digital presence
-- **Privacy**: No personal information required for registration
+### 5. AI-Powered Customer Experience
+- **Intelligent Integration**: Seamlessly embed Agility into customer websites using MCP
+- **Conversational Payments**: LLM-powered natural language payment processing
+- **Smart Automation**: AI-driven transaction routing and optimization
+- **Enhanced Security**: Machine learning-based fraud detection and prevention
 
 ## Technical Architecture
 
@@ -84,7 +86,9 @@ The application uses Midnight.js framework for:
 ### Integration Layer
 - **XRPL Integration**: Direct connection to XRP Ledger
 - **ILP Bridge**: Cross-chain transaction routing
-- **Web3 Domain Service**: DID management and resolution
+- **AI/ML Services**: MCP-based integration for customer websites
+- **LLM Interface**: Natural language payment processing and customer support
+- **Machine Learning Engine**: Fraud detection, risk assessment, and transaction optimization
 
 ## Use Cases
 

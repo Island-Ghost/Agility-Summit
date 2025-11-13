@@ -8,7 +8,7 @@ Agility leverages the power of:
 - **Midnight Network** - Zero-knowledge proofs for privacy
 - **XRP Ledger (XRPL)** - Fast, efficient transactions
 - **Interledger Protocol (ILP)** - Cross-chain interoperability
-- **Web3 Domains** - Decentralized identity
+- **AI/ML with MCP & LLMs** - Intelligent payment processing and customer experience
 - **Compact Language** - Privacy-preserving smart contracts
 
 ## 🚀 Features
@@ -17,7 +17,7 @@ Agility leverages the power of:
 - **Cross-Chain Payments**: Seamless transactions across different blockchains
 - **Secure Escrow System**: Protected payment processing
 - **KYC Compliance**: Privacy-preserving identity verification
-- **Web3 Domain Integration**: Decentralized identity management
+- **AI-Powered Integration**: MCP-based seamless embedding into customer websites with LLM support
 
 ## 📋 Prerequisites
 
