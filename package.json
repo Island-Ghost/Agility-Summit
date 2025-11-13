@@ -1,0 +1,32 @@
+{
+  "name": "agility-summit",
+  "version": "1.0.0",
+  "description": "Agility - Secure Financial Service on Midnight Network",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "compile": "compact compile contracts/*.compact",
+    "test": "jest",
+    "deploy:testnet": "node scripts/deploy.js --network testnet",
+    "deploy:mainnet": "node scripts/deploy.js --network mainnet"
+  },
+  "keywords": [
+    "midnight",
+    "blockchain",
+    "privacy",
+    "zkp",
+    "xrpl",
+    "payments",
+    "web3"
+  ],
+  "author": "Agility Team",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.7.0"
+  }
+}
